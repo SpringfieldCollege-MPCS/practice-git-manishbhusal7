@@ -3,3 +3,14 @@ Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.gith
 Date:   Tue Feb 7 20:32:57 2023 +0000
 
     Initial commit
+commit 23fd3a0065a4eb508bec37cbcbe38ad699fd4340
+Author: Manish Bhusal <manishbhusal2003@gmail.com>
+Date:   Tue Feb 7 16:45:34 2023 -0500
+
+    Add git log to logs/mylog.txt
+
+commit 81971247940e3406d13110a74e4d8a5b3f788342
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Feb 7 20:32:57 2023 +0000
+
+    Initial commit
